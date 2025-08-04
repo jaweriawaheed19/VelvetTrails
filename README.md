@@ -24,6 +24,7 @@ This project serves as a front-end web design showcase, combining structured HTM
 
 *Jaweria Waheed Satti*
 
+- Student – BS Computer Science
 - [LinkedIn Profile](https://www.linkedin.com/in/jaweriasatti)  
 - [Email](mailto:jaweriasatti19@gmail.com)
 
